@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Kamil
 
-<!--
-**Grosstick/Grosstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Student** | ☕ **Java** | 🔴 **Red Team Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With
+
+```text
+Languages:      Python • Java • C
+Security:       Red Team • Lately SAST
+AI/ML:          LLM Integration • AI-assisted Security Tooling
+```
+
+### Current Focus
+
+- Building tools that automate security analysis
+- Exploring AI applications in offensive security
+- Learning red team methodologies and techniques
+- First Java projects
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grosstick&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grosstick&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+<p align="center">
+  <i>Breaking things to learn how to fix them</i>
+</p>
