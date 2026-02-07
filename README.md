@@ -1,6 +1,6 @@
 # Hey, I'm Kamil
 
-🎓 **CS Student** | ☕ **Java** | 🔴 **Red Team Enthusiast**
+**CS Student** | **Java** | **Red Team Enthusiast**
 
 ---
 
@@ -31,7 +31,7 @@ AI/ML:          LLM Integration • AI-assisted Security Tooling
 
 ### 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kwiatkowski-359868383/)
 
 ---
 
